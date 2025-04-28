@@ -12,17 +12,27 @@ int main(){
     } 
     int max = arr[0];
     int min = arr[0];
+    int maxIndex = 0;
+    int minIndex = 0;
     for(int i = 1; i < N; i++){
         if(max < arr[i]){
             max = arr[i];
+            maxIndex = i;
         }
         if(min > arr[i]){
             min = arr[i];
+            minIndex = i;
         }
-       
     }  
-    printf("%d ", max);
-    printf("%d ", min);
+     arr[maxIndex] = min;
+    arr[minIndex] = max;
+    for(int i = 0; i < N; i++){
+     
+        printf("%d ", arr[i]);
+    
+    } 
+
+
 
   
     
