@@ -1,24 +1,17 @@
 #include <stdio.h>
 
-int main(){
-    int N = 0;
-    scanf("%d", &N);
-    int arr[N];
-   
-    for(int i = 0; i < N; i++){
-        scanf("%d", &arr[i]);
+int main()
+{
+    int n = 0;
+    scanf("%d", &n);
+    int a[n];
+    for(int i = 0; i < n; i++){
+        scanf("%d", &a[i]);
+        // printf("%d ", a[i]);
     }
-    int i = 0;
-    int j = N - 1;
-        while(i < j){
-            int temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-            i++;
-            j--;
-        }
-        for(int i = 0; i < N; i++){
-            printf("%d ", arr[i]);
-        }
+ for(int j = n - 1; j >= 0; j--){
+    printf("%d ", a[j]);
+ }
+
     return 0;
 }
