@@ -1,3 +1,2 @@
-if(max < arr[i]){
-        //     max = arr[i];
-        // }
+   // printf("%d", val);
+    // int i = 0;
