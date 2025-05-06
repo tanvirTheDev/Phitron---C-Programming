@@ -1,13 +1,32 @@
 #include <stdio.h>
-
+#include <limits.h>
 int main(){
-    int N = 0;
-    scanf("%d", &N);
-    int N2 = 0;
-    scanf("%d", &N2);
-    printf(int j = 0; j < N2; j++){
-        scanf("%d")
+    int t; scanf("%d", &t);
+    for(int tc = 1; tc <= t; tc++){
+        int N = 0;
+        scanf("%d", &N);
+        int A[N + 1];
+        for(int i =1; i <= N; i++)
+        {
+            scanf("%d", &A[i]);
+        
+        }
+        int min = INT_MAX;
+        for(int i =1; i <= N; i++)
+        {
+            for(int j = i + 1; j <= N; j++)
+            {
+                int value = A[i] + A[j] + j - i;
+                if(min > value)
+                {
+                    min = value;
+                }
+            
+            }
+        
+        }
+        printf("%d\n", min);
     }
-
-    return 0;
+   
+  
 }

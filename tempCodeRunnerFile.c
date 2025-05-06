@@ -1,2 +1,4 @@
-   // printf("%d", val);
-    // int i = 0;
+for(int k = 1; k <= space; k++){
+            printf(" ");
+        }
+        space--;
