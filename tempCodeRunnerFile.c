@@ -1,4 +1,13 @@
- //   for(int j = 1; j < space; j++){
-        //     printf(" ");
-        // }
-        // space--;
+#include <stdio.h>
+
+void hello(int i){
+    
+    printf("%d", i);
+    hello(i + 1);
+}
+
+int main() {
+    int i = 5;
+    hello(i);
+    return 0;
+}
