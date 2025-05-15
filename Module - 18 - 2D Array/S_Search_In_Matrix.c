@@ -7,7 +7,7 @@ int main() {
     // int n;
     // scanf("%d", &n);
     int arr[r][c]; 
-    int totalSize = r * c;
+   
 
     for (int i = 0; i < r; i++) {
         for (int j = 0; j < c; j++) {
