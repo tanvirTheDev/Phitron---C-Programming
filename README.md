@@ -15,18 +15,18 @@
 </p>
 
 <p align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/tanvirthedev">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 📜 Certificate of Completion
+<!-- ## 📜 Certificate of Completion
 
 <p align="center">
   <img src="link-to-certificate-image" alt="Certificate" width="600px" />
-</p>
+</p> -->
 
 ---
 
