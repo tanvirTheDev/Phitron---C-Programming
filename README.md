@@ -1,3 +1,35 @@
+<!-- Cover Video or GIF (Optional) -->
+<p align="center">
+  <img src="https://drive.google.com/file/d/1btCSGvkInYnQkXq8Y6EU-nr8rX0vrUl2/view?usp=sharing" alt="Course Cover" width="100%" />
+</p>
+
+<!-- Title -->
+<h1 align="center">💻 C Programming Course – PHITRON</h1>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-VSCode-007ACC?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Completed-100%25-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Days%20Spent-45-blueviolet?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
+
+---
+
+## 📜 Certificate of Completion
+
+<p align="center">
+  <img src="link-to-certificate-image" alt="Certificate" width="600px" />
+</p>
+
+---
+
 # 💻 C Programming Course – PHITRON
 
 Welcome to my **C Programming Course** repository!  
