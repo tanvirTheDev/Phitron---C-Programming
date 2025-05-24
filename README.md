@@ -51,6 +51,8 @@ This course covered:
 ├── output.txt
 ├── README.md
 
+```
+
 
 🧠 Key Concepts Learned
 
@@ -80,7 +82,7 @@ You can compile and run any `.c` file using **GCC**:
 gcc filename.c -o filename
 ./filename
 
-
+```
 
 
 🙌 Let's Connect
