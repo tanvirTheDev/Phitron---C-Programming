@@ -1,6 +1,6 @@
 <!-- Cover Video or GIF (Optional) -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1btCSGvkInYnQkXq8Y6EU-nr8rX0vrUl2/view?usp=sharing" alt="Course Cover" width="100%" />
+  <img src="/cover.gif" alt="Course Cover" width="100%" />
 </p>
 
 <!-- Title -->
@@ -41,6 +41,7 @@ I studied consistently for **1.5 months**, dedicating **3–4 hours per day**, a
 ## 📘 Course Summary
 
 This course covered:
+
 - ✅ Basic syntax, variables, data types
 - ✅ Operators and conditional logic
 - ✅ Loops and nested loops
@@ -85,7 +86,6 @@ This course covered:
 
 ```
 
-
 🧠 Key Concepts Learned
 
 - Input/Output operations
@@ -104,8 +104,6 @@ This course covered:
 
 - Problem solving techniques
 
-
-
 ## ⚙️ How to Run the Code
 
 You can compile and run any `.c` file using **GCC**:
@@ -115,7 +113,6 @@ gcc filename.c -o filename
 ./filename
 
 ```
-
 
 🙌 Let's Connect
 📧 Email: ahamedtanvir374@email.com
