@@ -1,6 +1,6 @@
 <!-- Cover Video or GIF (Optional) -->
 <p align="center">
-  <img src="/cover.gif" alt="Course Cover" width="100%" />
+  <img src="/cover.gif" alt="Course Cover" width="600px" height="500px" />
 </p>
 
 <!-- Title -->
@@ -22,11 +22,11 @@
 
 ---
 
-<!-- ## 📜 Certificate of Completion
+## 📜 Certificate of Completion
 
 <p align="center">
-  <img src="link-to-certificate-image" alt="Certificate" width="600px" />
-</p> -->
+  <img src="/cProgrammingMarkShit.png" alt="Certificate" width="600px" />
+</p>
 
 ---
 
